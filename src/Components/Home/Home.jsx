@@ -20,7 +20,7 @@ const Home = () => {
   return (
     <>
     <Helmet>
-      <title>Donation Campaign </title>
+      <title>We the People </title>
     </Helmet>
       <section
         style={{ backgroundImage: `url(${bannerImg})` }}

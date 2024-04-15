@@ -27,7 +27,7 @@ const Donation = () => {
   return (
     <>
     <Helmet>
-      <title>Donation | Donation campaign</title>
+      <title>We the People</title>
     </Helmet>
       <section className="mt-28 py-10">
         <div className="container mx-auto px-5">
