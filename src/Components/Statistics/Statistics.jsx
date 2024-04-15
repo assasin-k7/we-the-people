@@ -26,7 +26,7 @@ const Statistics = () => {
   return (
     <>
     <Helmet>
-      <title>Statistics | Donation Campaign</title>
+      <title>We the People</title>
     </Helmet>
       <section className="my-32">
         <div className="container mx-auto px-5">
