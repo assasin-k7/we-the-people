@@ -5,7 +5,7 @@ const Banner = ({handleSearch}) => {
         <div className="absolute w-full h-full bg-[rgba(225,226,226,0.76)] -z-40"></div>
           <div className="space-y-5">
             <div>
-              <h2 className="text-center text-3xl text-black font-semibold">I Grow By Helping People In Need</h2>
+              <h2 className="text-center text-3xl text-black font-semibold">We the People</h2>
             </div>
             <div className="text-center">
               <form onSubmit={handleSearch}>

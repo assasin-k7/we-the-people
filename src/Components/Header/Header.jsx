@@ -18,7 +18,7 @@ const Header = () => {
           <div className="flex justify-between items-center py-4">
             <div className="flex-1">
               <Link to={"/"}>
-                <img className="md:max-w-[180px]" src={logo} alt="" />
+                <img className="md:max-w-[80px]" src={logo} alt="" />
               </Link>
             </div>
             <div className="flex-1 relative">
@@ -32,7 +32,8 @@ const Header = () => {
                px-3 py-2 flex-col md:flex-row md:flex md:justify-end md:w-full`}>
                 <NavLink to={'/'}>Home</NavLink>
                 <NavLink to={'/donation'}>Donation</NavLink>
-                <NavLink to={'/statistics'}>Statistics</NavLink>
+                {/* <NavLink to={'/statistics'}>Statistics</NavLink> */}
+                <NavLink to={'/statistics'}>constitution</NavLink>
               </div>
             </div>
           </div>
