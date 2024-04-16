@@ -24,7 +24,7 @@ const Home = () => {
     </Helmet>
       <section
         style={{ backgroundImage: `url(${bannerImg})` }}
-        className="z-20 relative w-full min-h-[60vh] bg-center py-24 bg-cover flex flex-col justify-center items-center"
+        className="z-30 relative w-full min-h-[60vh] bg-center py-24 bg-cover flex flex-col justify-center items-center"
       >
         <Banner handleSearch={handleSearch} />
       </section>
