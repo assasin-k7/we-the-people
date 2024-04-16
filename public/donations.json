@@ -2,7 +2,7 @@
     "donations": [
       {
         "id": 1,
-        "picture": "https://i.ibb.co/jGjGmyP/flat-world-humanitarian-day-illustration-23-2149004792.jpg",
+        "picture": "src/assets/images/food_donation1.jpg",
         "title": "Clean Water for Children",
         "category": "Humanitarian",
         "category_bg": "#dcf424",

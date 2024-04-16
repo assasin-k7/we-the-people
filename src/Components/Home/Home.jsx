@@ -6,10 +6,10 @@ import { useState } from "react";
 import { Helmet } from "react-helmet";
 
 const Home = () => {
+  console.log(useLoaderData());
   const data = useLoaderData();
   const donations = data.donations;
   const [displayData, setDisplayData] = useState(donations);
-
   const handleSearch = (e) => {
     e.preventDefault();
     const searchValue = e.target.search.value;
