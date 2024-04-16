@@ -2,7 +2,7 @@
     "donations": [
       {
         "id": 1,
-        "picture": "src/assets/images/food_donation1.jpg",
+        "picture": "https://i.ibb.co/sF8fFFN/food-donation1.jpg",
         "title": "Clean Water for Children",
         "category": "Humanitarian",
         "category_bg": "#dcf424",
