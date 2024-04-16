@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const Card = ({ donation }) => {
-//   console.log(donation);
+  // console.log(donation);
   const { id, picture, title, category, category_bg, text_button_bg, card_bg } =
     donation;
 
